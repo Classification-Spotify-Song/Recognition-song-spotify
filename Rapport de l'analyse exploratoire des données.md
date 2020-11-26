@@ -1,6 +1,6 @@
 ### Rapport sur l'analyse exploratoire de la donnée
 
-Target: Category
+Target: Category //
 Taille de la donnée: Lignes: 615 et colonnes: 14
 Type de variable: categoriel: 2, numérique: 12
 Variables manquantes: Tres peu de variable manquante
