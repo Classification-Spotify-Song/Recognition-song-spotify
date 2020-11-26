@@ -9,8 +9,8 @@ Distribution des variables catégorielles: Très grande présence de donneur de 
 
 #### Infos sur les catégories de sang
 
-1- Il y a autant d'hommes et de femmes agée entre 30-60 ans donneur de sang <br/>
-2-Il y a plus d'homme ayant le sang suspect que de femmes <br/>
+1- Il y a autant d'hommes et de femmes agés entre 30-60 ans donneur de sang <br/>
+2-Il y a plus d'hommes ayant le sang suspect que de femmes <br/>
 3-Il y a plus d'hommes agé de moins de 40 ans ayant l'hépatie que de femmes <br/>
-4-Il y autant d'homme et de femmes ayant le Fibrosis <br/>
-5-Un peu plus d'homme que de femmes en le cirrhosis <br/>
+4-Il y autant d'hommes et de femmes ayant le Fibrosis <br/>
+5-Un peu plus d'hommes que de femmes en le cirrhosis <br/>
